@@ -24,7 +24,7 @@
 | B-1 | 手眼标定通用系统 | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
 | B-2 | 自研串联机械臂通用控制与动力学平台 | 待公开仓库                                                   |
 | C | 农业机器人轮轨一体式底盘 | [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) |
-| D | 巡检相机云台——云台/相机识别 | 待公开仓库 |
+| D | 巡检相机云台——云台/相机识别 | [Three-Axis-Stabilized-Gimbal](https://github.com/AgroTech-SCAU/Three-Axis-Stabilized-Gimbal) |
 | E | 农业具身双臂协作采摘/分拣平台 | 待公开仓库 |
 | F | 温室大棚采摘果实篮筐转运辅助装置 | 待公开仓库 |
 | G | 八角相关技术研发 | 待公开仓库 |
