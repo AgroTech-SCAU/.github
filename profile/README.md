@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | A-1 | 番茄采收机器人（导航） | 待公开仓库 |
 | A-2 | 番茄采收机器人（视觉） | 待公开仓库 |
-| A-3 | 番茄采收机器人（控制） | 待公开仓库 |
+| A-3 | 番茄采收机器人（控制） | [Tomato-Picker-ROS2](https://github.com/AgroTech-SCAU/Tomato-Picker-ROS2) |
 | B-1 | 手眼标定通用系统 | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
 | B-2 | 自研串联机械臂通用控制与动力学平台 | 待公开仓库                                                   |
 | C | 农业机器人轮轨一体式底盘 | [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) |
