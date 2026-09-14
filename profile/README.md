@@ -19,7 +19,7 @@
 | 编号 | 项目名称 | GitHub |
 | --- | --- | --- |
 | A-1 | 番茄采收机器人（导航） | 待公开仓库 |
-| A-2 | 番茄采收机器人（视觉） | 待公开仓库 |
+| A-2 | 番茄采收机器人（视觉） | [Tomato-Orbbec-Vision](https://github.com/AgroTech-SCAU/Tomato-Orbbec-Vision) |
 | A-3 | 番茄采收机器人（控制） | [Tomato-Picker-ROS2](https://github.com/AgroTech-SCAU/Tomato-Picker-ROS2) |
 | B-1 | 手眼标定通用系统 | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
 | B-2 | 自研串联机械臂通用控制与动力学平台 | 待公开仓库                                                   |
