@@ -16,25 +16,30 @@
 
 本页只展示适合公开的信息，包括项目名称、公开仓库入口与公开技术资产
 
-| 编号 | 项目名称 | GitHub |
-| --- | --- | --- |
-| A-1 | 番茄采收机器人（导航） | 待公开仓库 |
-| A-2 | 番茄采收机器人（视觉） | [Tomato-Orbbec-Vision](https://github.com/AgroTech-SCAU/Tomato-Orbbec-Vision) |
-| A-3 | 番茄采收机器人（控制） | [Tomato-Picker-ROS2](https://github.com/AgroTech-SCAU/Tomato-Picker-ROS2) |
-| B-1 | 手眼标定通用系统 | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
-| B-2 | 自研串联机械臂通用控制与动力学平台 | 待公开仓库                                                   |
-| C | 农业机器人轮轨一体式底盘 | [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) |
-| D | 巡检相机云台——云台/相机识别 | [Three-Axis-Stabilized-Gimbal](https://github.com/AgroTech-SCAU/Three-Axis-Stabilized-Gimbal) |
-| E | 农业具身双臂协作采摘/分拣平台 | 待公开仓库 |
-| F | 温室大棚采摘果实篮筐转运辅助装置 | 待公开仓库 |
-| G | 八角相关技术研发 | 待公开仓库 |
-| H | 辣椒深度融合多光谱识别 | 待公开仓库 |
-| I | 荔枝花视觉识别 | 待公开仓库 |
-| J | 茶叶双臂遥操作系统 | [Tea-Picking-Dual-Arm](https://github.com/AgroTech-SCAU/Tea-Picking-Dual-Arm) |
-| K | AI 运动视觉跟随小车 | 待公开仓库 |
-| L | 柔性农业采摘夹爪 | 待公开仓库 |
-| M | 辣椒分拣摆轮 | 待公开仓库 |
-| N | 舵轮轮腿底盘 | 待公开仓库 |
+| 编号 | 项目名称                           | GitHub                                                       |
+| ---- | ---------------------------------- | ------------------------------------------------------------ |
+| 1.1  | 番茄采收机器人（导航）             | [agt_navigation_v3](https://github.com/Aldoubt/agt_navigation_v3.git) |
+| 1.2  | 番茄采收机器人（视觉）             | [Tomato-Orbbec-Vision](https://github.com/AgroTech-SCAU/Tomato-Orbbec-Vision) |
+| 1.3  | 番茄采收机器人（控制）             | [Tomato-Picker-ROS2](https://github.com/AgroTech-SCAU/Tomato-Picker-ROS2) |
+| 2.1  | 手眼标定通用系统                   | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
+| 2.2  | 自研串联机械臂通用控制与动力学平台 | 待公开仓库                                                   |
+| 3    | 农业机器人轮轨一体式底盘           | [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) |
+| 4    | 巡检相机云台——云台/相机识别        | [Three-Axis-Stabilized-Gimbal](https://github.com/AgroTech-SCAU/Three-Axis-Stabilized-Gimbal) |
+| 5    | 农业具身双臂协作采摘/分拣平台      | 待公开仓库                                                   |
+| 6    | 温室大棚采摘果实篮筐转运辅助装置   | 待公开仓库                                                   |
+| 7    | 八角相关技术研发                   | 待公开仓库                                                   |
+| 8    | 辣椒深度融合多光谱识别             | 待公开仓库                                                   |
+| 9    | 荔枝花视觉识别                     | 待公开仓库                                                   |
+| 10   | 茶叶双臂遥操作系统                 | [Tea-Picking-Dual-Arm](https://github.com/AgroTech-SCAU/Tea-Picking-Dual-Arm) |
+| 11   | AI 运动视觉跟随小车                | [AI_Vision_Tracking_Car](https://github.com/AgroTech-SCAU/AI_Vision_Tracking_Car) |
+| 12   | 柔性农业采摘夹爪                   | 待公开仓库                                                   |
+| 13   | 辣椒分拣摆轮                       | 待公开仓库                                                   |
+| 14   | 舵轮轮腿底盘                       | 待公开仓库                                                   |
+| 15   | 三维扫描仪                         | 待公开仓库                                                   |
+| 16   | 无人机研发                         | 待公开仓库                                                   |
+| 17   | 桌面汉堡双臂                       | 待公开仓库                                                   |
+| 18   | MicroDuck 复刻+扩展                | 待公开仓库                                                   |
+| 19   | 双七轴仿人形机械臂                 | 待公开仓库                                                   |
 
 ---
 
