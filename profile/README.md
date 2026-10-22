@@ -12,61 +12,77 @@
 
 ## 🚀 项目导航
 
-协会当前项目较多，其中部分项目已经在 GitHub Organization 中公开，部分项目尚未建立公开仓库
+项目编号对应第五届项目安排；本页仅展示已同步的公开项目名称与仓库入口，未同步项目保留编号空缺
 
-本页只展示适合公开的信息，包括项目名称、公开仓库入口与公开技术资产
+“待补充公开仓库”表示本页尚未提供公开入口，不代表项目未开展
 
 | 编号 | 项目名称                           | GitHub                                                       |
 | ---- | ---------------------------------- | ------------------------------------------------------------ |
-| 1.1  | 番茄采收机器人（导航）             | [agt_navigation_v3](https://github.com/Aldoubt/agt_navigation_v3.git) |
-| 1.2  | 番茄采收机器人（视觉）             | [Tomato-Orbbec-Vision](https://github.com/AgroTech-SCAU/Tomato-Orbbec-Vision) |
-| 1.3  | 番茄采收机器人（控制）             | [Tomato-Picker-ROS2](https://github.com/AgroTech-SCAU/Tomato-Picker-ROS2) |
-| 2.1  | 手眼标定通用系统                   | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
-| 2.2  | 自研串联机械臂通用控制与动力学平台 | 待公开仓库                                                   |
-| 3    | 农业机器人轮轨一体式底盘           | [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) |
-| 4    | 巡检相机云台——云台/相机识别        | [Three-Axis-Stabilized-Gimbal](https://github.com/AgroTech-SCAU/Three-Axis-Stabilized-Gimbal) |
-| 5    | 农业具身双臂协作采摘/分拣平台      | 待公开仓库                                                   |
-| 6    | 温室大棚采摘果实篮筐转运辅助装置   | 待公开仓库                                                   |
-| 7    | 八角相关技术研发                   | 待公开仓库                                                   |
-| 8    | 辣椒深度融合多光谱识别             | 待公开仓库                                                   |
-| 9    | 荔枝花视觉识别                     | 待公开仓库                                                   |
-| 10   | 茶叶双臂遥操作系统                 | [Tea-Picking-Dual-Arm](https://github.com/AgroTech-SCAU/Tea-Picking-Dual-Arm) |
-| 11   | AI 运动视觉跟随小车                | [AI_Vision_Tracking_Car](https://github.com/AgroTech-SCAU/AI_Vision_Tracking_Car) |
-| 12   | 柔性农业采摘夹爪                   | 待公开仓库                                                   |
-| 13   | 辣椒分拣摆轮                       | 待公开仓库                                                   |
-| 14   | 舵轮轮腿底盘                       | 待公开仓库                                                   |
-| 15   | 三维扫描仪                         | 待公开仓库                                                   |
-| 16   | 无人机研发                         | 待公开仓库                                                   |
-| 17   | 桌面汉堡双臂                       | 待公开仓库                                                   |
-| 18   | MicroDuck 复刻+扩展                | 待公开仓库                                                   |
-| 19   | 双七轴仿人形机械臂                 | 待公开仓库                                                   |
+| 1 | 樱桃番茄采摘机器人 | 见以下子项目 |
+| 1.1 | 番茄—导航 | [agt_navigation_v3](https://github.com/Aldoubt/agt_navigation_v3)（个人仓库） |
+| 1.2 | 番茄—视觉 | [Tomato-Perception](https://github.com/AgroTech-SCAU/Tomato-Perception) |
+| 1.3 | 番茄—控制 | [Tomato-Manipulation](https://github.com/AgroTech-SCAU/Tomato-Manipulation) |
+| 2 | 手眼标定通用系统 | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
+| 3 | 串联机械臂动力学控制内核 | [SerialArm-Core](https://github.com/Kaede-Rei/SerialArm-Core)（个人仓库） |
+| 5 | 农业机器人轮轨一体式底盘 | [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) |
+| 6 | 巡检相机云台／相机识别 | [Three-Axis-Stabilized-Gimbal](https://github.com/AgroTech-SCAU/Three-Axis-Stabilized-Gimbal) |
+| 7 | 农业具身双臂协作采摘／分拣平台 | 待补充公开仓库 |
+| 8 | 温室果实篮筐转运辅助装置 | 待补充公开仓库 |
+| 9 | 八角相关技术研发 | 待补充公开仓库 |
+| 10 | 辣椒深度融合多光谱识别 | 待补充公开仓库 |
+| 11 | 荔枝花视觉识别 | [LycheeFlower-Vision](https://github.com/AgroTech-SCAU/LycheeFlower-Vision) |
+| 12 | 茶叶双臂遥操作系统 | [Tea-Picking-Dual-Arm](https://github.com/AgroTech-SCAU/Tea-Picking-Dual-Arm) |
+| 13 | AI 运动视觉跟随小车 | [AI_Vision_Tracking_Car](https://github.com/AgroTech-SCAU/AI_Vision_Tracking_Car) |
+| 14 | 柔性农业采摘夹爪 | 待补充公开仓库 |
+| 15 | 辣椒分拣摆轮 | 待补充公开仓库 |
+| 16 | 舵轮轮腿底盘 | 待补充公开仓库 |
+| 17 | 三维扫描仪 | [AT-AgriSense360_ws](https://github.com/AgroTech-SCAU/AT-AgriSense360_ws) |
+| 18 | 无人机研发 | 待补充公开仓库 |
+| 19 | 桌面汉堡双臂 | 待补充公开仓库 |
+| 20 | MicroDuck 复刻＋扩展 | 待补充公开仓库 |
+| 21 | 双七轴仿人形机械臂 | 待补充公开仓库 |
 
 ---
 
-## 🤖 机器人与项目仓库
+## 🏁 比赛机器人与历史资产
 
-- [Steering-Wheel-Chassis](https://github.com/AgroTech-SCAU/Steering-Wheel-Chassis) — 协会中型轮式机器人技术平台
-- [Tea-Picking-Dual-Arm](https://github.com/AgroTech-SCAU/Tea-Picking-Dual-Arm) — 茶叶双臂遥操作系统
-- [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) — 农业机器人轮轨一体移动底盘
-- [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) — ROS 2 手眼标定工具
+[Competition-Robot-Collection](https://github.com/AgroTech-SCAU/Competition-Robot-Collection) 是比赛机器人、比赛归属与公共模型的集合入口，具体实现保存在各机器人仓库
 
-## 🧩 公共技术资产
+已归档仓库用于查阅历史实现与技术传承，不作为新功能开发入口：
+
+| 机器人 | 仓库 | GitHub 仓库状态 |
+| --- | --- | --- |
+| SteerWheel Mk.1 | [Competition-Robot-2026-Mk.1](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Mk.1) | 已归档 |
+| Atlas | [Competition-Robot-2026-Atlas](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Atlas) | 已归档；原 Steering-Wheel-Chassis |
+| Hephaestus | [Competition-Robot-2026-Hephaestus](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Hephaestus) | 已归档 |
+
+## 🧩 公共技术资产与工具
 
 - [Feetech-Six-Axis-Robotic-Arm](https://github.com/AgroTech-SCAU/Feetech-Six-Axis-Robotic-Arm) — 飞特 STS3215 舵机六轴机械臂底层代码
-- [Steering-Wheel-Chassis-Model-Collection](https://github.com/AgroTech-SCAU/Steering-Wheel-Chassis-Model-Collection) — Steering-Wheel-Chassis 相关模型资产
+- [Competition-Robot-2026-Model-Collection](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Model-Collection) — 比赛机器人机械模型与大型机械资产
+- [yolo-annotation-training-workbench](https://github.com/AgroTech-SCAU/yolo-annotation-training-workbench) — YOLO 标注与训练工作台，上游项目的 Fork
+- [ATIL-Skills](https://github.com/AgroTech-SCAU/ATIL-Skills) — 协会维护的 AI Agent 工作流程与专业知识
 
-## 📐 工程规范
+## 📐 工程规范与协作入口
 
-- [Embedded-Electronic-Control-Standard](https://github.com/AgroTech-SCAU/Embedded-Electronic-Control-Standard) — AgroTech 嵌入式电控开发标准
+- [Embedded-Electronic-Control-Standard](https://github.com/AgroTech-SCAU/Embedded-Electronic-Control-Standard) — 嵌入式电控开发标准与公共 SDK
 - [Robotic-Arm-Motion-Control-Standard](https://github.com/AgroTech-SCAU/Robotic-Arm-Motion-Control-Standard) — AgroTech 机械臂运动控制开发标准
+- [AgroTech-Repository-Template](https://github.com/AgroTech-SCAU/AgroTech-Repository-Template) — 新建项目仓库的 README、技术规划与协作模板
+
+进入项目后先阅读仓库 README 与贡献指南；具体开发任务通过各仓库的 Issue、任务分支和 Pull Request 协作，技术规划与版本发布由项目负责人维护
 
 ---
 
 ## 🔒 内部项目管理
 
-项目负责人、成员安排、当前进度、里程碑与内部会议记录属于协会内部信息
+| 信息 | 维护位置 |
+| --- | --- |
+| 当前项目、负责人、协作者、当前版本、下一步目标与人员需求 | 飞书第五届《项目安排》 |
+| 历史各届项目与人员安排 | 飞书各届历史记录；第四届独有项目按已结项历史项目查阅 |
+| 成员登记、GitHub 账号映射、Team / Repository 权限申请与内部协作规则 | `.github-private` 成员工作台（需成员权限） |
+| 代码、技术文档、Issue、PR、技术规划与 Release | 各项目 GitHub 仓库 |
 
-这些内容统一放在 `.github-private` 中管理，不在公开 `.github` 中维护
+公共首页仅维护公开导航，不重复保存内部人员安排与项目进度
 
 ---
 
