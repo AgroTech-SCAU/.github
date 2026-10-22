@@ -22,8 +22,11 @@
 | 1.1 | 番茄—导航 | [agt_navigation_v3](https://github.com/Aldoubt/agt_navigation_v3)（个人仓库） |
 | 1.2 | 番茄—视觉 | [Tomato-Perception](https://github.com/AgroTech-SCAU/Tomato-Perception) |
 | 1.3 | 番茄—控制 | [Tomato-Manipulation](https://github.com/AgroTech-SCAU/Tomato-Manipulation) |
+| 1.4 | 番茄—多相机同步、多视角感知位姿 | 待补充公开仓库 |
+| 1.5 | 番茄—拨叶采摘 | 待补充公开仓库 |
 | 2 | 手眼标定通用系统 | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
 | 3 | 串联机械臂动力学控制内核 | [SerialArm-Core](https://github.com/Kaede-Rei/SerialArm-Core)（个人仓库） |
+| 4 | 农业机器人系统集成框架 | [AT-System-Integration](https://github.com/AgroTech-SCAU/AT-System-Integration) |
 | 5 | 农业机器人轮轨一体式底盘 | [Wheel-Rail-Integrated-Chassis](https://github.com/AgroTech-SCAU/Wheel-Rail-Integrated-Chassis) |
 | 6 | 巡检相机云台／相机识别 | [Three-Axis-Stabilized-Gimbal](https://github.com/AgroTech-SCAU/Three-Axis-Stabilized-Gimbal) |
 | 7 | 农业具身双臂协作采摘／分拣平台 | 待补充公开仓库 |
