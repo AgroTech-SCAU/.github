@@ -12,9 +12,7 @@
 
 ## 🚀 项目导航
 
-项目编号对应第五届项目安排；本页仅展示已同步的公开项目名称与仓库入口，未同步项目保留编号空缺
-
-“待补充公开仓库”表示本页尚未提供公开入口，不代表项目未开展
+项目编号对应第五届项目安排；“待补充公开仓库”表示尚未登记公开入口
 
 | 编号 | 项目名称                           | GitHub                                                       |
 | ---- | ---------------------------------- | ------------------------------------------------------------ |
@@ -22,8 +20,7 @@
 | 1.1 | 番茄—导航 | [agt_navigation_v3](https://github.com/Aldoubt/agt_navigation_v3)（个人仓库） |
 | 1.2 | 番茄—视觉 | [Tomato-Perception](https://github.com/AgroTech-SCAU/Tomato-Perception) |
 | 1.3 | 番茄—控制 | [Tomato-Manipulation](https://github.com/AgroTech-SCAU/Tomato-Manipulation) |
-| 1.4 | 番茄—多相机同步、多视角感知位姿 | 待补充公开仓库 |
-| 1.5 | 番茄—拨叶采摘 | 待补充公开仓库 |
+| 1.4 | 番茄—拨叶采摘 | 待补充公开仓库 |
 | 2 | 手眼标定通用系统 | [Handeye-Calibration-App](https://github.com/AgroTech-SCAU/Handeye-Calibration-App) |
 | 3 | 串联机械臂动力学控制内核 | [SerialArm-Core](https://github.com/Kaede-Rei/SerialArm-Core)（个人仓库） |
 | 4 | 农业机器人系统集成框架 | [AT-System-Integration](https://github.com/AgroTech-SCAU/AT-System-Integration) |
@@ -44,25 +41,26 @@
 | 19 | 桌面汉堡双臂 | 待补充公开仓库 |
 | 20 | MicroDuck 复刻＋扩展 | 待补充公开仓库 |
 | 21 | 双七轴仿人形机械臂 | 待补充公开仓库 |
+| 22 | 多相机同步数据集采集工具 | 待补充公开仓库 |
 
 ---
 
 ## 🏁 比赛机器人与历史资产
 
-[Competition-Robot-Collection](https://github.com/AgroTech-SCAU/Competition-Robot-Collection) 是比赛机器人、比赛归属与公共模型的集合入口，具体实现保存在各机器人仓库
+比赛机器人与公共资产索引：[Competition-Robot-Collection](https://github.com/AgroTech-SCAU/Competition-Robot-Collection)
 
-已归档仓库用于查阅历史实现与技术传承，不作为新功能开发入口：
-
-| 机器人 | 仓库 | GitHub 仓库状态 |
+| 机器人 | 仓库 | 说明 |
 | --- | --- | --- |
+| Longinus | [Competition-Robot-2026-Longinus](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Longinus) | 智能农装B题机器人 |
 | SteerWheel Mk.1 | [Competition-Robot-2026-Mk.1](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Mk.1) | 已归档 |
-| Atlas | [Competition-Robot-2026-Atlas](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Atlas) | 已归档；原 Steering-Wheel-Chassis |
+| Atlas | [Competition-Robot-2026-Atlas](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Atlas) | 历史软件基线；未归档 |
 | Hephaestus | [Competition-Robot-2026-Hephaestus](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Hephaestus) | 已归档 |
 
 ## 🧩 公共技术资产与工具
 
 - [Feetech-Six-Axis-Robotic-Arm](https://github.com/AgroTech-SCAU/Feetech-Six-Axis-Robotic-Arm) — 飞特 STS3215 舵机六轴机械臂底层代码
 - [Competition-Robot-2026-Model-Collection](https://github.com/AgroTech-SCAU/Competition-Robot-2026-Model-Collection) — 比赛机器人机械模型与大型机械资产
+- [gazebo-SSR](https://github.com/AgroTech-SCAU/gazebo-SSR) — Gazebo 仿真场景与机器人资源库
 - [yolo-annotation-training-workbench](https://github.com/AgroTech-SCAU/yolo-annotation-training-workbench) — YOLO 标注与训练工作台，上游项目的 Fork
 - [ATIL-Skills](https://github.com/AgroTech-SCAU/ATIL-Skills) — 协会维护的 AI Agent 工作流程与专业知识
 
